@@ -1,0 +1,1 @@
+esse projeto em java demonstra como se comunicar com o arduino através de uma aplicação web escrita em java.
